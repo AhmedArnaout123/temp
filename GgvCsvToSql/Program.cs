@@ -1,4 +1,4 @@
-using GggvCsvToSql;
+using GgvCsvToSql;
 
 IHost host = Host.CreateDefaultBuilder(args)
     .ConfigureServices(services => { services.AddHostedService<Worker>(); })

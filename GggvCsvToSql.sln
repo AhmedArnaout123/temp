@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GggvCsvToSql", "GggvCsvToSql\GggvCsvToSql.csproj", "{C04D6D0D-4ABF-45E4-BB4A-C2E142DBF68B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GgvCsvToSql", "GgvCsvToSql\GgvCsvToSql.csproj", "{C04D6D0D-4ABF-45E4-BB4A-C2E142DBF68B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

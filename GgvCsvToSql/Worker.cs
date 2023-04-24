@@ -1,4 +1,4 @@
-namespace GggvCsvToSql;
+namespace GgvCsvToSql;
 
 public class Worker : BackgroundService
 {
