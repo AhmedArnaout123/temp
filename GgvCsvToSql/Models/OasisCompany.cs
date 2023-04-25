@@ -1,6 +1,6 @@
 ﻿namespace GgvCsvToSql.Models;
 
-public class OasisCompany
+public class OasisCompany : EntityBase
 {
     public string TestProperty { get; set; }
 }

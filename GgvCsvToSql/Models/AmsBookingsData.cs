@@ -1,6 +1,6 @@
 ﻿namespace GgvCsvToSql.Models;
 
-public class AmsBookingsData
+public class AmsBookingsData : EntityBase
 {
     public string TestProperty { get; set; }
 }

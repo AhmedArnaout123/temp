@@ -1,6 +1,6 @@
 ﻿namespace GgvCsvToSql.Models;
 
-public class OpenVivaStockData
+public class OpenVivaStockData : EntityBase
 {
     public string TestProperty { get; set; }
 }
