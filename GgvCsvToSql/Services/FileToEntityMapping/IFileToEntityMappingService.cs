@@ -1,6 +1,8 @@
 ﻿using GgvCsvToSql.Models;
 
+namespace GgvCsvToSql.Services.FileToEntityMapping;
+
 public interface IFileToEntityMappingService
 {
-    public EntityBase MapFileToEntity();
+    public List<EntityBase> MapFileToEntities(string filePath);
 }
